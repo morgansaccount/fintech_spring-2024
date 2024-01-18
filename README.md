@@ -1,2 +1,2 @@
-# fintech_spring-2024
+# fintech_spring_2024
 Coursework for Financial Technology, Spring 2024
